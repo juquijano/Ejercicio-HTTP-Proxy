@@ -1,6 +1,6 @@
 # Ejercicio-HTTP-Proxy
 >
->El códico consta de dos clases: Main y ProxyThread.
+>El código consta de dos clases: Main y ProxyThread.
 >
 >La clase Main inicia el servidor socket en el puerto determinado (por defecto es el 8080) donde queda esperando por una nueva conexión. Cuando una petición es realizada, se genera un nuevo ProxyThread al que se le pasa el socket que inicia su ejecución.
 >
@@ -19,4 +19,5 @@
 >En caso de no especificar un puerto, se usará el 8080 por defecto.
 
 >**En el navegador:**
+>
 >Configure el proxy de su browser para conectarse a *127.0.0.1* puerto *8080* o el puerto que ingrese al ejecutar el jar.
