@@ -17,3 +17,6 @@
 >`java -jar JuQujano-HTTP-Proxy.jar <puerto>`
 >
 >En caso de no especificar un puerto, se usará el 8080 por defecto.
+
+>**En el navegador:**
+>Configure el proxy de su browser para conectarse a *127.0.0.1* puerto *8080* o el puerto que ingrese al ejecutar el jar.
