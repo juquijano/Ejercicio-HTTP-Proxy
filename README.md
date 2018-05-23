@@ -10,7 +10,7 @@
 >Primero, asegúrese tener instalado Java en su máquina. 
 >En caso de no, consulte [esta página](https://www.java.com/es/download/).
 >
->Luego descargue el archivo [JuQujano-HTTP-Proxy.jar](https://github.com/juquijano/Ejercicio-HTTP->Proxy/raw/master/out/artifacts/JuQujano_HTTP_Proxy_jar/JuQujano-HTTP-Proxy.jar) (el mismo se encuentra en /out/artifacts/JuQujano_HTTP_Proxy_jar/ de este repositorio).
+>Luego descargue el archivo [JuQujano-HTTP-Proxy.jar](https://github.com/juquijano/Ejercicio-HTTP-Proxy/raw/master/out/artifacts/JuQujano_HTTP_Proxy_jar/JuQujano-HTTP-Proxy.jar) (el mismo se encuentra en /out/artifacts/JuQujano_HTTP_Proxy_jar/ de este repositorio).
 
 >**Por consola ejecute:**
 >
